@@ -1,0 +1,16 @@
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\Homework Unit 1 lesson 2.csprojAssemblyReference.cache
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\Homework Unit 1 lesson 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\Homework Unit 1 lesson 2.AssemblyInfoInputs.cache
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\Homework Unit 1 lesson 2.AssemblyInfo.cs
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\Homework Unit 1 lesson 2.csproj.CoreCompileInputs.cache
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\bin\Debug\net5.0\Homework Unit 1 lesson 2.exe
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\bin\Debug\net5.0\Homework Unit 1 lesson 2.deps.json
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\bin\Debug\net5.0\Homework Unit 1 lesson 2.runtimeconfig.json
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\bin\Debug\net5.0\Homework Unit 1 lesson 2.runtimeconfig.dev.json
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\bin\Debug\net5.0\Homework Unit 1 lesson 2.dll
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\bin\Debug\net5.0\ref\Homework Unit 1 lesson 2.dll
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\bin\Debug\net5.0\Homework Unit 1 lesson 2.pdb
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\Homework Unit 1 lesson 2.dll
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\ref\Homework Unit 1 lesson 2.dll
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\Homework Unit 1 lesson 2.pdb
+D:\Fork\Домашняя работа\Homework Unit 1 lesson 2\Homework Unit 1 lesson 2\obj\Debug\net5.0\Homework Unit 1 lesson 2.genruntimeconfig.cache
